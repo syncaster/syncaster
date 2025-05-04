@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **UNISBA Blitar**
 - 🌱 I’m currently learning **Laravel** Framework 😎
 - 💻🕰️
-![morning](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsyNW83eWt0bGlvMHJpbHY3bXQ1amwzNm8xYXpnOTFrNHY0cG5zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xG3FzauZFmUNMcTLy/giphy.gif)
